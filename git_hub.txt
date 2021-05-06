@@ -1,0 +1,6 @@
+ssh-keygen   -t rsa -b 4096  -C “santiago.ariasm@usantoto.edu.co”
+C:\Users\santy/.ssh/id_rsa
+bichis162332
+eval $(ssh-agent -s)
+ssh-add C:\Users\santy/.ssh/id_rsa
+/c/Users/santy/.ssh/id_rsa
